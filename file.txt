@@ -2,3 +2,4 @@ Hello, this is my text file
 Changes from the first branch
 1. Changes for commit 1
 2. Changes for commit 2
+3. Changes for commit 3
